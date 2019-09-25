@@ -13,15 +13,15 @@ This dataset contains four parts:
 
 ### Two focuses: 
 
-How to use SVM, decision tree, random forest and XGboost to predict S&P 500 Price.  
-Compare the results of the methods.
+- How to use SVM, decision tree, random forest and XGboost to predict S&P 500 Price.  
+- Compare the results of the methods.
 
 ### Our steps: 
 
-Feature engineering: Ordinal data: stock fundamental information data, Numeric data: stock price data, stock’s company financial data
-Modeling: decision tree, random forest, support vector machine algorithm and XGboost
-Comparing: Using backtest results from the models above, compare the accuracy and complexity of algorithms 
-Limitation and possible solutions
+1. Feature engineering: Ordinal data: stock fundamental information data, Numeric data: stock price data, stock’s company financial data
+2. Modeling: decision tree, random forest, support vector machine algorithm and XGboost
+3. Comparing: Using backtest results from the models above, compare the accuracy and complexity of algorithms 
+4. Limitation and possible solutions
 
 ### Expected outcome:
 Finding a machine learning model which could predict the rise and fall of stock price  with relatively high accuracy.
