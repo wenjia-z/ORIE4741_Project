@@ -6,10 +6,10 @@ by Jiahui Lu (jl3947), Wenjia Zhai (wz363), Yishan Xiong (yx468)
 
 This dataset contains four parts:  
 
-prices.csv: Raw daily prices of individual stocks. Most of the data spans from 2010 to the end of 2016. For companies new to the stock market, the date range is shorter.  
-prices-split-adjusted.csv: Daily stock prices after adjustments for splits.  
-fundamentals.csv: Metrics extracted from annual SEC 10K filings (2012-2016). It could be used to derive fundamental indicators.  
-securities.csv: General description of each company with division on sectors  
+- prices.csv: Raw daily prices of individual stocks. Most of the data spans from 2010 to the end of 2016. For companies new to the stock market, the date range is shorter.  
+- prices-split-adjusted.csv: Daily stock prices after adjustments for splits.  
+- fundamentals.csv: Metrics extracted from annual SEC 10K filings (2012-2016). It could be used to derive fundamental indicators.  
+- securities.csv: General description of each company with division on sectors  
 
 ### Two focuses: 
 
