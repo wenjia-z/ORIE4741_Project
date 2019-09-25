@@ -13,7 +13,8 @@ This dataset contains basic price and performance data. It has four parts:
 
 ### Our focuses: 
 
-- How to use SVM, decision tree, random forest and XGboost to predict S&P 500 Price.  
+-  efficeient features on stock price. 
+- Use SVM, decision tree, random forest and XGboost to predict S&P 500 Price.  
 - Compare the results of different methods. Try to make improvement.
 
 ### Our steps: 
