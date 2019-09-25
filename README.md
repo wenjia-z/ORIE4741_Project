@@ -11,7 +11,7 @@ This dataset contains four parts:
 - fundamentals.csv: Metrics extracted from annual SEC 10K filings (2012-2016). It could be used to derive fundamental indicators.  
 - securities.csv: General description of each company with division on sectors  
 
-### Two focuses: 
+### Our focuses: 
 
 - How to use SVM, decision tree, random forest and XGboost to predict S&P 500 Price.  
 - Compare the results of the methods.
