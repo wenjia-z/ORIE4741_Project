@@ -4,17 +4,17 @@ by Jiahui Lu (jl3947), Wenjia Zhai (wz363), Yishan Xiong (yx468)
 ### Our data set:
 “New York Stock Exchange - S&P 500 companies historical prices with fundamental data” from Kaggle: https://www.kaggle.com/dgawlik/nyse
 
-This dataset contains four parts:  
+This dataset contains basic price and performance data. It has four parts:  
 
-- prices.csv: Raw daily prices of individual stocks. Most of the data spans from 2010 to the end of 2016. For companies new to the stock market, the date ranges are shorter.  
+- prices.csv: Raw daily prices of individual S&P 500 component stocks. Most of the data spans from 2010 to the end of 2016. For companies new to the stock market, the date ranges are shorter.  
 - prices-split-adjusted.csv: Daily stock prices after adjustments for splits.  
-- fundamentals.csv: Metrics extracted from annual SEC 10K filings (2012-2016). It could be used to derive fundamental indicators.  
-- securities.csv: General description of each company with division on sectors  
+- fundamentals.csv: Metrics extracted from annual SEC 10K filings (2012-2016). It could be used to derive fundamental features like PE ratio.  
+- securities.csv: General description of each company. 
 
 ### Our focuses: 
 
 - How to use SVM, decision tree, random forest and XGboost to predict S&P 500 Price.  
-- Compare the results of the methods.
+- Compare the results of different methods. Try to make improvement.
 
 ### Our steps: 
 
