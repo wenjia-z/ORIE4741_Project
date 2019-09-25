@@ -24,5 +24,5 @@ Comparing: Using backtest results from the models above, compare the accuracy an
 Limitation and possible solutions
 
 ### Expected outcome:
-Finding a machine learning model which could predict the rise and fall of stock price  with relatively high accuracy.
+Finding a machine learning model which could predict the rise and fall of stock price  with relatively high accuracy
 
