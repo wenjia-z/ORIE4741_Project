@@ -14,11 +14,6 @@ This dataset contains basic price and performance data. It has four parts:
 - fundamentals.csv: Metrics extracted from annual SEC 10K filings (2012-2016). It could be used to derive fundamental features like PE ratio.  
 - securities.csv: General description of each company. 
 
-### Our focuses: 
-
-- How to use SVM, decision tree, random forest and XGboost to predict S&P 500 Price.  
-- Compare the results of different methods. Try to make improvement.
-
 ### Our steps: 
 
 1. Feature engineering: Ordinal data: stock fundamental information data, Numeric data: stock price data, stock’s company financial data
