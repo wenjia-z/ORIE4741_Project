@@ -2,7 +2,7 @@
 by Jiahui Lu (jl3947), Wenjia Zhai (wz363), Yishan Xiong (yx468)
 
 ### Introduction
-The stock trading is exciting for its uncertainty, but for the future practitioner in financial industry, we believe that there are certain rules lying in the numbers. Now we are experiencing the longest bull market in the history. However, the worries of the market grow from institutes to individuals. The year of 2020 is predicted to be a difficult year for the stock market of America, since the economic cycle is reported to be in its early recession stage next years. Thus, it would be helpful to predict the stock price rise and fall pattern in the bear market to reduce the possible risks and maximize the profit.
+The stock trading is exciting for its uncertainty, however, for the future practitioner in financial industry, we believe that there are certain rules lying in the numbers. Now we are experiencing the longest bull market in the history, but the worries of the market grow from institutes to individuals. The year of 2020 is predicted to be a difficult year for the stock market of America, since the economic cycle is reported to be in its early recession stage next years. Thus, it would be helpful to predict the stock price rise and fall pattern in the bear market to reduce the possible risks and maximize the profit.
 
 ### Our data set:
 “New York Stock Exchange - S&P 500 companies historical prices with fundamental data” from Kaggle: https://www.kaggle.com/dgawlik/nyse
