@@ -1,5 +1,8 @@
-# ORIE 4741 S&P500 Stock Price Prediction
+# ORIE 4741 S&P500 Stock Price Prediction in bear market
 by Jiahui Lu (jl3947), Wenjia Zhai (wz363), Yishan Xiong (yx468)
+
+### Introduction
+The stock trading is exciting for its uncertainty, but for the future practitioner in financial industry, we believe that there are certain rules lying in the numbers. Now we are experiencing the longest bull market in the history. However, the worries of the market grow from institutes to individuals. The year of 2020 is predicted to be a difficult year for the stock market of America, since the economic cycle is reported to be in its early recession stage next years. Thus, it would be helpful to predict the stock price rise and fall pattern in the bear market to reduce the possible risks and maximize the profit.
 
 ### Our data set:
 “New York Stock Exchange - S&P 500 companies historical prices with fundamental data” from Kaggle: https://www.kaggle.com/dgawlik/nyse
@@ -13,9 +16,7 @@ This dataset contains basic price and performance data. It has four parts:
 
 ### Our focuses: 
 
-- Find efficeient features on stock price. In this case, we mainly focus on the features about price/volume/fundamental. 
-- Use SVM, decision tree, random forest and XGboost to predict S&P 500 components' price. 
-- 
+- How to use SVM, decision tree, random forest and XGboost to predict S&P 500 Price.  
 - Compare the results of different methods. Try to make improvement.
 
 ### Our steps: 
