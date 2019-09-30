@@ -1,4 +1,4 @@
-# ORIE 4741 S&P500 Stock Price Prediction in bear market
+# ORIE 4741 S&P500 Stock Price Prediction in Bear Market
 by Jiahui Lu (jl3947), Wenjia Zhai (wz363), Yishan Xiong (yx468)
 
 ### Introduction
