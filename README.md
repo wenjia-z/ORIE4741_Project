@@ -9,7 +9,7 @@ In this project, we are going to use several machine learning models to predict 
 words, it is a classification problem with 2 categories: up and down. We plan to utilize efficient models such as neutral network,random tree, decision tree and SVM to achieve our goal.
 
 ### Our data set:
-“Intra-day data of S&P500 stocks” from Wharton: https://www.kaggle.com/dgawlik/nyse
+“Intra-day data of S&P500 stocks” from Wharton
 
 
 
