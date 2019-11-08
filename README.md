@@ -1,6 +1,8 @@
 # ORIE 4741 Direction prediction of S&P500 stock price
 by Jiahui Lu (jl3947), Wenjia Zhai (wz363), Yishan Xiong (yx468)
 
+We have changed the topic from "S&P500 Stock Price Prediction in Bear Market" into "Direction prediction of S&P500 stock price".
+
 ### Introduction
 The stock trading is exciting for its uncertainty, however, for the future practitioner in financial industry, we believe that
 there are certain rules lying in the numbers. Traditionally, people use linear multifactorial model to predict future stock price
