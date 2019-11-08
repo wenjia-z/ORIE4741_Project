@@ -1,6 +1,7 @@
 # ORIE 4741 Direction prediction of S&P500 stock price
 by Jiahui Lu (jl3947), Wenjia Zhai (wz363), Yishan Xiong (yx468)
 
+-updated in 11/7/2019-
 We have changed the project topic from "S&P500 Stock Price Prediction in Bear Market" to "Direction prediction of S&P500 stock price".
 
 ### Introduction
