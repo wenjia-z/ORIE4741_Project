@@ -3,7 +3,7 @@ by Jiahui Lu (jl3947), Wenjia Zhai (wz363), Yishan Xiong (yx468)
 
 (We have changed the project topic from "s&p500_stock_price_prediction_in_bear_market" to the current one.)
 
-### Introduction
+### Introduction:
 The stock trading is exciting for its uncertainty, however, for the future practitioner in financial industry, we believe that
 there are certain rules lying in the numbers. Traditionally, people use linear multifactorial model to predict future stock price
 to reduce the possible risks and maximize the profit.
